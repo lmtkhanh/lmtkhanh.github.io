@@ -28,6 +28,10 @@
   margin-bottom: 50px;
 }
 
+#image {
+  text-align: center;
+}
+
 body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
   border-width: 20px;
