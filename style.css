@@ -28,9 +28,12 @@
   margin-bottom: 50px;
 }
 
-#image {
-  padding-left: 50%;
-  margin-left: -350px;
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 body {
