@@ -29,7 +29,8 @@
 }
 
 #image {
-  text-align: center;
+  padding-left: 50%;
+  margin-left: -350px;
 }
 
 body {
